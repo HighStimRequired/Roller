@@ -16,7 +16,7 @@ def roll_dice():
 
 # Create main application window
 app = tb.Window(themename="darkly")
-app.title("Dice Roller")
+app.title("Roller")
 app.geometry("300x200")
 
 # GUI Elements
